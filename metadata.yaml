@@ -9,6 +9,9 @@ contributor:
     birthdate: 1880
     gutenberg_agent_id: '37135'
     url: http://www.gutenberg.org/2009/agents/37135
+covers:
+- cover_type: archival
+  image_path: 73169-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Dunton, Edith K. (Edith Kellogg)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35189
     wikipedia: https://en.wikipedia.org/wiki/Edith_Kellogg_Dunton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73169#Betty-Wales-decides-b-a-story-for-girls
 gutenberg_issued: '2024-03-14'
 gutenberg_type: Text
 identifiers:
